@@ -23,9 +23,6 @@
 <a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Th0mzzz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Th0mzzz-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
 
