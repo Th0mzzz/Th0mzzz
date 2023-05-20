@@ -1,22 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header" />
-<div align="center">
-  
+<img align="right" src="https://raw.githubusercontent.com/gist/Th0mzzz/0b5442a0f546e414f31953efa29dcf44/raw/b76c7065b77d15b555f374b7db561089f8623fb5/profilecard.svg">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&weight=300&size=35&pause=1000&color=87CEFA&width=450&lines=Olá!+meu+nome+é+Thomaz;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
-</div>
 
-<div align="center" width="100%">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=0d1117" alt="Th0mzzz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=0d1117" />
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=141414" />
   
 
-  
-</div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Th0mzzz&theme=gotham)
 
-<div align="center">
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Th0mzzz&theme=react)
+
+
   
 ### Principais Habilidades:
   
@@ -35,11 +32,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-</div>
+
 
 <p align="center" style="background:87CEFA">
-<a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Th0mzzz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/">
+     <img align"center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </a>
 </p>
 
