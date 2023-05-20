@@ -1,13 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header" />
-<img align="right" src="https://raw.githubusercontent.com/gist/Th0mzzz/0b5442a0f546e414f31953efa29dcf44/raw/b76c7065b77d15b555f374b7db561089f8623fb5/profilecard.svg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header" /> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&weight=300&size=35&pause=1000&color=87CEFA&width=450&lines=Olá!+meu+nome+é+Thomaz;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
-
-
-
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=141414" />
+<div align="center">
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&weight=300&size=35&pause=1000&color=87CEFA&width=450&lines=Olá!+meu+nome+é+Thomaz;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=141414" />
+</div> 
 
 
 
