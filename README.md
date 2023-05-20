@@ -5,10 +5,10 @@
 
 </div>
 
-<div align="right" width="100%">  
+<div align="center" width="100%">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=0d1117" alt="Th0mzzz github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=0d1117" />
   
 
   
