@@ -6,10 +6,10 @@
  
  <img align="center" width="50%"  src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
   
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
   
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=141414" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th0mzzz&layout=compact&border_color=87cefa&title_color=87cefa&text_color=ffffff&bg_color=141414" />
 </div> 
 
   
