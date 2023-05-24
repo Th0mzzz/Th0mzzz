@@ -40,7 +40,11 @@
 <a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/">
      <img align"center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</a>
+  
+<a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/">
+     <img align"center" alt="linkedin" src="https://img.shields.io/badge/Instagram-F8334A?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
 </p>
 
 </div>
