@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&weight=300&size=35&pause=1000&color=87CEFA&width=450&lines=Olá!+meu+nome+é+Thomaz;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=300&size=25&pause=800&color=87CEFA&width=450&lines=Olá!☄️+meu+nome+é+Thomaz;Seja+bem-vindo+ao+meu+perfil!;Se+prepare+para+decolar!🚀)](https://git.io/typing-svg)
  <img align="center" width="50%"  src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
   
   <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
@@ -41,7 +41,7 @@
   </a>
   
 <a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/">
-     <img align"center" alt="linkedin" src="https://img.shields.io/badge/Instagram-F8334A?style=for-the-badge&logo=instagram&logoColor=white">
+     <img align"center" alt="Gmail" src="https://img.shields.io/badge/Gmail-F8334A?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </p>
