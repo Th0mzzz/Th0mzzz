@@ -40,7 +40,7 @@
      <img align"center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-<a href="https://www.linkedin.com/in/thomaz-vasconcelos-mendes-027388268/">
+<a href="mailto:contatothomazvmendes@gmail.com/">
      <img align"center" alt="Gmail" src="https://img.shields.io/badge/Gmail-F8334A?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
