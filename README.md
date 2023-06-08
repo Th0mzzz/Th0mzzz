@@ -2,7 +2,7 @@
 
 <div align="left">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=300&size=25&pause=800&color=87CEFA&width=450&lines=Olá!☄️+meu+nome+é+Thomaz;Seja+bem-vindo+ao+meu+perfil!;Se+prepare+para+decolar!🚀)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=300&size=27&pause=800&color=87CEFA&width=450&lines=Olá!☄️+meu+nome+é+Thomaz;Seja+bem-vindo+ao+meu+perfil!;Se+prepare+para+decolar!🚀)](https://git.io/typing-svg)
  <img align="center" width="70%"  src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
   
   <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=Th0mzzz&show_icons=true&border_color=87cefa&count_private=true&title_color=87cefa&icon_color=87cefa&text_color=ffffff&bg_color=141414" alt="Th0mzzz github stats" /> 
@@ -24,7 +24,7 @@
   <div style="display: inline-block">
   <img alt="CSS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img alt="JS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
+  <img alt="Figma" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
 ## ⚙️ Minhas ferramentas:
