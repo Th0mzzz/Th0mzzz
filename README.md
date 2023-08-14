@@ -6,8 +6,10 @@
 <img align="center" width=30% src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
 
 ##  Sobre mim
-- Aluno do curso de Informática para Internet na FIEB
-- Trabalhando na Secretária de Educação de Jandira como estagiário no setor de T.I.
+- Aluno do curso de Informática para Internet na FIEB 📒
+- Trabalhando na Secretária de Educação de Jandira como estagiário no setor de T.I. 💻
+- Tenho 17 anos 🧑‍💻
+- Criativo e determinado! 🪐
 <br>
 <div align="left" >
   
