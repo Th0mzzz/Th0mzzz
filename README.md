@@ -5,10 +5,10 @@
 
 <img align="center" width=30% src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
 
-# Sobre mim
-#### Estudante de Informática para Internet no ITB
-#### Trabalhando na Prefeitura de Jandira como estagiário no setor de T.I.
-  
+##  Sobre mim
+- Aluno do curso de Informática para Internet na FIEB
+- Trabalhando na Secretária de Educação de Jandira como estagiário no setor de T.I.
+<br>
 <div align="left" >
   
 ### 🧠 Conhecimentos:
@@ -16,20 +16,21 @@
   <img alt="CSS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img alt="JS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="SASS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- 
+<br>
+
 ###  📖 Estudando no momento:
   <div style="display: inline-block">
   <img alt="JS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="PHP" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img alt="tailwind" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
-
+  <img alt="Bootstrap" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <br>
+   
 ### ⚙️ Minhas ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
+<br>
 
 ### 🌐 Redes Sociais:
 <p align="left" style="background:87CEFA">
