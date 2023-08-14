@@ -3,7 +3,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=300&size=27&pause=800&color=87CEFA&width=450&lines=Olá!☄️+meu+nome+é+Thomaz;Seja+bem-vindo+ao+meu+perfil!;Se+prepare+para+decolar!🚀)](https://git.io/typing-svg)
 
-<img align="right" width=60% src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
+<img align="center" width=30% src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
 
 # Sobre mim
 #### Estudante de Informática para Internet no ITB
