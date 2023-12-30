@@ -9,6 +9,7 @@
 - Aluno do curso de Informática para Internet na FIEB 📒
 - Trabalhando na Secretária de Educação de Jandira como estagiário no setor de T.I. 💻
 - Tenho 17 anos 🧑‍💻
+- Cursando inglês na Wizard (Estou no módulo W4). 
 - Criativo e determinado! 🪐
 <br>
 <div align="left" >
