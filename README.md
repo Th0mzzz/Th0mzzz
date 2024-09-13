@@ -1,13 +1,6 @@
 <img width=100% src="https://github.com/Th0mzzz/Th0mzzz/blob/main/th0mzzz-github-wallpaper-1.png" /> 
+<img width=100% src="https://github.com/Th0mzzz/Th0mzzz/blob/main/th0mzzz-github-wallpaper-2.png" /> 
 
-<img align="center" width=30% src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
-
-#  Sobre mim
-- Aluno do curso de Informática para Internet na FIEB 📒
-- Trabalhando na Secretária de Educação de Jandira como estagiário no setor de T.I. 💻
-- Tenho 17 anos 🧑‍💻
-- Cursando inglês na Wizard (Estou no módulo W4). 🔤
-- Criativo e determinado! 🪐
 
 <div align="left" >
   
