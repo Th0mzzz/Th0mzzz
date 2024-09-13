@@ -1,5 +1,6 @@
 <img width=100% src="https://github.com/Th0mzzz/Th0mzzz/blob/main/th0mzzz-github-wallpaper-1.png" /> 
 <img width=100% src="https://github.com/Th0mzzz/Th0mzzz/blob/main/th0mzzz-github-wallpaper-2.png" /> 
+<img width=100% src="https://github.com/Th0mzzz/Th0mzzz/blob/main/th0mzzz-github-wallpaper-3.png" /> 
 
 
 <div align="left" >
