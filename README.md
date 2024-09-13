@@ -1,17 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E72929&height=120&section=header" /> 
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&weight=300&size=27&pause=800&color=E72929&width=450&lines=Olá!☄️+meu+nome+é+Thomaz;Seja+bem-vindo+ao+meu+perfil!;Se+prepare+para+decolar!🚀)](https://git.io/typing-svg)
+<img width=100% src="https://github.com/Th0mzzz/Th0mzzz/blob/main/th0mzzz-github-wallpaper-1.png" /> 
 
 <img align="center" width=30% src="https://thumbs.gfycat.com/OnlyReadyDarwinsfox-max-1mb.gif"><br>
 
-##  Sobre mim
+#  Sobre mim
 - Aluno do curso de Informática para Internet na FIEB 📒
 - Trabalhando na Secretária de Educação de Jandira como estagiário no setor de T.I. 💻
 - Tenho 17 anos 🧑‍💻
 - Cursando inglês na Wizard (Estou no módulo W4). 🔤
 - Criativo e determinado! 🪐
-<br>
+
 <div align="left" >
   
 ### 🧠 Conhecimentos:
