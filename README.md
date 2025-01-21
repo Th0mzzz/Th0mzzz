@@ -10,15 +10,16 @@
   <img alt="CSS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img alt="JS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="Bootstrap" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="NodeJS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  />
+  <img alt="ReactJS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="MySQL" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  />  
+  <img alt="Express" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />  
+  
 <br>
 
 ###  📖 Estudando no momento:
   <div style="display: inline-block">
   <img alt="PHP" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="MySQL" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  />     
-  <img alt="NodeJS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  />
-  <img alt="ReactJS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Express" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />  
   <br>
    
 ### ⚙️ Minhas ferramentas:
