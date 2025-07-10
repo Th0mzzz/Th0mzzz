@@ -19,6 +19,10 @@
 ###  📖 Estudando no momento:
   <div style="display: inline-block">
   <img alt="PHP" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original-wordmark.svg"  width="120px" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" align="center" width="120px" />  
+  <img alt="Zod" align="center" height="50px" width="50px" src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=256&q=100" />  
+    
   <br>
    
 ### ⚙️ Minhas ferramentas:
