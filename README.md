@@ -11,16 +11,12 @@
   <img alt="NodeJS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  />
   <img alt="ReactJS" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="MySQL" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  />  
-  <img alt="Express" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />  
-  
-<br>
-
-###  📖 Estudando no momento:
-  <div style="display: inline-block">
-  <img alt="PHP" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Express" align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original-wordmark.svg"  width="120px" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" align="center" width="120px" />  
   <img alt="Zod" align="center" height="50px" width="50px" src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=256&q=100" />  
+  <img alt="Tailwind" align="center" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />  
+<br>
     
   <br>
    
